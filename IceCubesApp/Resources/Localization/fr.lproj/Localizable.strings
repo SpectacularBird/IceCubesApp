@@ -1,56 +1,57 @@
 // MARK: Common strings
-"action.cancel" = "Cancel";
-"action.delete" = "Delete";
-"action.save"  = "Save";
-"action.done" = "Done";
-"action.retry" = "Retry";
+"action.cancel" = "Annuler";
+"action.delete" = "Supprimer";
+"action.save"  = "Sauver";
+"action.done" = "Fait";
+"action.retry" = "Retenter";
 
 "alert.button.ok" = "OK";
-"alert.error" = "Error!";
+"alert.error" = "Erreur!";
 
-"placeholder.loading.long" = "Loading, loading, loading ...";
-"placeholder.loading.short" = "Loading ...";
+"placeholder.loading.long" = "Chargement, chargement, chargement ...";
+"placeholder.loading.short" = "Chargement ...";
 
-"see-more" = "See more";
+"see-more" = "Voir davantage";
 
 // MARK: Add Account
-"account.add.error.instance-not-supported" = "This instance is not currently supported.";
-"account.add.navigation-title" = "Add account";
-"account.add.sign-in" = "Sign in";
+"account.add.error.instance-not-supported" = "Cette instance n'est actuellement pas supportée.";
+"account.add.navigation-title" = "Ajouter un compte";
+"account.add.sign-in" = "S'identifier";
 
 // MARK: Enums
-"enum.avatar-position.leading" = "Leading";
+"enum.avatar-position.leading" = "Principal";
 "enum.avatar-position.top" = "Top";
-"enum.avatar-shape.circle" = "Circle";
-"enum.avatar-shape.rounded" = "Rounded";
-"enum.status-actions-display.all" = "All";
-"enum.status-actions-display.no-buttons" = "No buttons";
-"enum.status-actions-display.only-buttons" = "Only buttons";
+"enum.avatar-shape.circle" = "Encerclé";
+"enum.avatar-shape.rounded" = "Arrondi";
+"enum.status-actions-display.all" = "Tout";
+"enum.status-actions-display.no-buttons" = "Sans bouton";
+"enum.status-actions-display.only-buttons" = "Uniquement avec boutons";
 "enum.status-display-style.compact" = "Compact";
 "enum.status-display-style.large" = "Large";
 
 // MARK: Instances
-"instance.info.domains" = "Domains";
+"instance.info.domains" = "Domaines";
 "instance.info.email" = "Email";
-"instance.info.name" = "Name";
-"instance.info.navigation-title" = "Instance Info";
-"instance.info.posts" = "Posts";
-"instance.info.section.info" = "Instance info";
-"instance.info.section.rules" = "Instance rules";
-"instance.info.users" = "Users";
+"instance.info.name" = "Nom";
+"instance.info.navigation-title" = "Infos sur l'instance";
+"instance.info.posts" = "Messages";
+"instance.info.section.info" = "Infos sur l'instance";
+"instance.info.section.rules" = "Règles de l'instance";
+"instance.info.users" = "Utilisateurs";
 "instance.info.version" = "Version";
-"instance.list.posts-%@" = "%@ posts";
-"instance.list.users-%@" = "%@ users";
+"instance.list.posts-%@" = "%@ messages";
+"instance.list.users-%@" = "%@ utilisateurs";
 "instance.suggestions" = "Suggestions";
-"instance.url" = "Instance URL";
+"instance.url" = "URL de l'instance";
 
 // MARK: Settings
-"settings.account.add" = "Add account";
-"settings.app.icon" = "App Icon";
-"settings.app.icon.navigation-title" = "Icons";
-"settings.app.source" = "Source (GitHub link)";
-"settings.app.support" = "Support the app";
-"settings.display.avatar.position" = "Avatar position";
+"settings.account.add" = "Ajouter un compte";
+"settings.app.icon" = "Icône de l'app";
+"settings.app.icon.navigation-title" = "Icônes";
+"settings.app.source" = "Source (lien GitHub)";
+"settings.app.support" = "Soutenez IceCube";
+"settings.display.avatar.position" = "Position de l'avatar";
+"settings.display.avatar.shape" = "Forme de l'avatar";
 "settings.display.avatar.shape" = "Avatar shape";
 "settings.display.navigation-title" = "Display Settings";
 "settings.display.restore" = "Restore defaults";
